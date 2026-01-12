@@ -2,7 +2,7 @@
 
 Версия: 1.1  
 Проект: https://parts-kronos5.ru/  
-Окружение по умолчанию: **Chrome (desktop)**; для SMS — **iOS (Messages)**.  
+Окружение по умолчанию: **Chrome (desktop)**; для SMS — **iOS (Messages)**.
 
 ---
 
@@ -14,7 +14,7 @@
 4) Steps to reproduce  
 5) Actual result  
 6) Expected result  
-7) Attachments  
+7) Attachments
 
 ---
 
