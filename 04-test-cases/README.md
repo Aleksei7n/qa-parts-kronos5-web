@@ -14,10 +14,10 @@
 
 ---
 
-## Suites
+## Suites (наборы тестов)
 
 ### 1) Smoke Suite — Auth
-Минимальный набор для проверки работоспособности фичи авторизации.
+Минимальный набор для проверки работоспособности авторизации.
 - TC-AUTH-001
 - TC-AUTH-002
 - TC-AUTH-005
@@ -78,7 +78,7 @@
 
 ---
 
-## Files
+## Files (разделение по модулям)
 
 - `auth-login.md` — Login (Email only): TC-AUTH-001 … TC-AUTH-007  
 - `auth-recovery.md` — Password recovery (Email only): TC-REC-001 … TC-REC-003  
