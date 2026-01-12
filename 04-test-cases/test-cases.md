@@ -10,12 +10,12 @@
 - **Module:** Auth / Search / AI Photo Search
 - **Type:** Functional / Validation / UI / Negative / Security-sanity
 - **Priority:** P0–P3
-- **Severity (impact if fails):** Critical / Major / Minor (для тест-кейса — оценка влияния)
+- **Severity (impact if fails):** Critical / Major / Minor
 - **Preconditions**
 - **Test Data**
 - **Steps**
 - **Expected Result**
-- **Postconditions** (если применимо)
+- **Postconditions**
 
 ---
 
