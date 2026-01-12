@@ -1,11 +1,3 @@
-Понял — переписываю весь блок из 7 багов, где:
-	•	BUG-001…BUG-004 → один и тот же скрин: assets-screenshots-bugs/BUG-001-search-page.png
-	•	BUG-005 → assets-screenshots-bugs/BUG-002-.png
-	•	BUG-006 → assets-screenshots-bugs/BUG-003-.png
-	•	BUG-007 → assets-screenshots-bugs/BUG-004-.png
-
-Ниже — готовый контент для полной замены 05-bug-reports/bug-reports.md.
-
 # Bug Reports — Parts-Kronos5 (Web)
 
 Версия: 1.1  
