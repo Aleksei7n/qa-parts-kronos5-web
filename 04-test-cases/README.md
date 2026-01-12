@@ -3,21 +3,25 @@
 Версия: 1.1  
 Окружение по умолчанию: Chrome (desktop), https://parts-kronos5.ru/
 
-## Стандарт оформления
-Порядок секций внутри тест-кейса:
-1) Метаданные (US/Module/Type/Priority/Severity)  
-2) Preconditions  
-3) Test Data  
-4) Steps  
-5) Expected Result  
-6) Postconditions  
+## Атрибуты тест-кейса
+- **ID**
+- **Title**
+- **US:** связь с требованиями (user stories)
+- **Module:** Auth / Search / AI Photo Search
+- **Type:** Functional / Validation / UI / Negative / Security-sanity
+- **Priority:** P0–P3
+- **Severity (impact if fails):** Critical / Major / Minor
+- **Preconditions**
+- **Test Data**
+- **Steps**
+- **Expected Result**
+- **Postconditions**
 
 ---
 
 ## Suites (наборы тестов)
 
 ### 1) Smoke Suite — Auth
-Минимальный набор для проверки работоспособности авторизации.
 - TC-AUTH-001
 - TC-AUTH-002
 - TC-AUTH-005
@@ -28,7 +32,6 @@
 - TC-REG-011
 
 ### 2) Smoke Suite — Search
-Минимальный набор для проверки работоспособности поиска.
 - TC-SRCH-001
 - TC-SRCH-002
 - TC-SRCH-005
