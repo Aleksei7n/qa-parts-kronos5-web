@@ -45,7 +45,7 @@ QA case (Parts-Kronos5): **Auth (login/registration/recovery) + Search (text/tag
 ### 05-bug-reports/
 - `README.md` — список багов с кратким описанием и ссылками на файлы/скриншоты.
 - `bug-reports.md` — набор баг-репортов по стандарту.
-- `assets-screenshots-bugs/` — доказательства (скриншоты), привязанные к BUG-ID.
+- `assets-screenshots-bugs/` — доказательства (скриншоты).
 
 ### 06-reports/
 - `test-summary-report.md` — результат тестирования (coverage, статистика, дефекты, риски/ограничения).
